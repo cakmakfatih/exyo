@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6001f049-b5ec-498c-a01c-e1ec8d92e7f4" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/SliderWA.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Announcements.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Announcements.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/AGH.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/AGH.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/AkademikKariyer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/AkademikKariyer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/DoguEkspresi.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/DoguEkspresi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/Erasmus.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/Erasmus.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/Interrail.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/Interrail.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/WWoof.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/WWoof.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Feriha/WorkAndTravel.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Feriha/WorkAndTravel.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Layouts/Money.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Layouts/Money.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,14 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SliderWA.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SliderWA.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Components/SliderWA.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="77" column="99" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
+            <state relative-caret-position="194">
+              <caret line="75" selection-start-line="75" selection-end-line="75" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="3" column="150" selection-start-line="3" selection-start-column="150" selection-end-line="3" selection-end-column="150" />
             </state>
           </provider>
         </entry>
@@ -94,6 +89,7 @@
         <option value="$PROJECT_DIR$/src/Layouts/Feriha/AGH.js" />
         <option value="$PROJECT_DIR$/src/Layouts/Feriha/Interrail.js" />
         <option value="$PROJECT_DIR$/src/Components/SliderWA.js" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -142,12 +138,6 @@
               <item name="exyo" type="b2602c69:ProjectViewProjectNode" />
               <item name="exyo" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="exyo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="exyo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="exyo" type="b2602c69:ProjectViewProjectNode" />
@@ -203,12 +193,12 @@
       <workItem from="1527787313442" duration="13381000" />
       <workItem from="1527845753151" duration="2974000" />
       <workItem from="1527867536369" duration="226000" />
-      <workItem from="1528071948515" duration="6916000" />
+      <workItem from="1528071948515" duration="7318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24392000" />
+    <option name="totallyTimeSpent" value="24794000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -241,26 +231,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Layouts/Announcements.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="47" selection-start-line="32" selection-start-column="47" selection-end-line="32" selection-end-column="47" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="31" lean-forward="true" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/SliderWA.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -637,11 +607,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Components/SliderWA.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="77" column="99" selection-start-line="77" selection-start-column="99" selection-end-line="77" selection-end-column="99" />
+        <state relative-caret-position="194">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="150" selection-start-line="3" selection-start-column="150" selection-end-line="3" selection-end-column="150" />
         </state>
       </provider>
     </entry>
