@@ -47,7 +47,7 @@ export default class ErasmusP extends Component {
         let { navMinified } = this.state;
         return (
             <div className="app-wrapper">
-                <Header from="feriha" active={"feriha"} navMinified={navMinified}/>
+                <Header active={"feriha"} navMinified={navMinified}/>
                 <div style={{marginTop:100}} />
                 <Erasmus images={stepsImages} info={info}/>
                 <Footer />

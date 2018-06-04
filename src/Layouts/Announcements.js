@@ -30,6 +30,7 @@ export default class Announcements extends Component {
         return (
             <div className="app-wrapper">
                 <Header active="News" from={"announcements"} navMinified={navMinified}/>
+                <div style={{marginTop:100}} />
                 <News />
                 <Footer />
             </div>

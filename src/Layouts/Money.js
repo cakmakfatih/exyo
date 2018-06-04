@@ -30,6 +30,7 @@ export default class Money extends Component {
         return (
             <div className="app-wrapper">
                 <Header active="Announcements" from={"announcements"} navMinified={navMinified}/>
+                <div style={{marginTop:100}} />
                 <Contact />
                 <Footer />
             </div>

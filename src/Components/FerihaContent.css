@@ -1,0 +1,11 @@
+.feriha-content-wrapper {
+    width:calc(100% - 20px);
+    display:flex;
+    padding:10px;
+    justify-content:center;
+    white-space: pre-wrap;
+}
+.feriha-content-wrapper p {
+    max-width:800px;
+    width:100%;
+}
